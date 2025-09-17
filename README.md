@@ -90,7 +90,7 @@ This project is currently **~70% complete**.
 
 1️. Clone the repository
 
-git clone https://github.com/sureshkushwaha123/Split-Bill.git
+git clone (https://github.com/Sandeep2002-svg/Split-Bill_project.git)
 cd splitbill
 
 2.Install dependencies
